@@ -69,16 +69,23 @@ Part 2 : Manipulation Localization
     ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./IEEE3.png)
     </br>
     For The NIST Dataset :
+    </br>
     ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./NIST1.png)
     </br>
     ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./NIST2.png)
     </br>
     ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./NIST3.png)
     </br>
+    ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./NIST4.png)
+    </br>
     
-### Future :
-1) The results could be further improved by considering more data for training.
+### Conclusion and Future :
+1) The model does a decent job in localizing forgeries in Digital images. The model was tested using both IEEE forensic dataset and the NIST Dataset. 
 
-2) For solving the IEEE problem, creating a new dataset with more tamperings(other than copy move and splice) could improve the results.
+2) For IEEE data model does an ok job only mainly cos IEEE dataset contains complex levels of forgeries other than copy move and splicing. However for NIST it does really good job. It can identify true and fake images clearly as it can be seen that in one of the images the mask is empty cos model knows it's a genuine image.
+
+3) The results could be further improved by considering more data for training.
+
+4) For solving the IEEE problem, creating a new dataset with more tamperings(other than copy move and splice) could improve the results.
 
 
