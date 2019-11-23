@@ -1,4 +1,4 @@
-# Image_Forgery_Localization
+# Image Forgery Localization
 
 
 ## Problem Statement
