@@ -22,6 +22,7 @@ c) dresden_spliced_mscoco.zip - ~71K, Pristine images cropped from the Dresden D
 For this work, I have considerd only the First two zip files.
 
 ## Data Used
+![](/Synt1.png)
 
 Number of Images in Spliced Dataset =  13470
 
@@ -77,7 +78,9 @@ Part 2 : Manipulation Localization
   For The Synthetic Dataset :
     
     ![](/Synt1.png)
+    
     ![](/Synt2.png)
+    
     ![](/Synt3.png)
     
     For IEEE Dataset : 
