@@ -1,5 +1,7 @@
 # Image Forgery Localization
 
+![](/Synt1.png)
+
 
 ## Problem Statement
 To Localize forgeries in digital images.
@@ -22,7 +24,6 @@ c) dresden_spliced_mscoco.zip - ~71K, Pristine images cropped from the Dresden D
 For this work, I have considerd only the First two zip files.
 
 ## Data Used
-![](/Synt1.png)
 
 Number of Images in Spliced Dataset =  13470
 
