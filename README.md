@@ -100,7 +100,7 @@ Part 2 : Manipulation Localization
     ![](/NIST4.png)
     </br>
 
-### Results :
+### Output Scores :
 
 For Part 1: Patch Classification 
     
