@@ -77,9 +77,9 @@ Part 2 : Manipulation Localization
   For The Synthetic Dataset :
     <img src = 'https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./Synt1.png'>
     </br>
-    ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./Synt2.png)
+    ![](/Synt2.png)
     </br>
-    ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./Synt3.png)
+    ![](/Synt3.png)
     </br>
     For IEEE Dataset : 
     ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/output_mask./IEEE1.png)
