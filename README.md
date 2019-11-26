@@ -1,6 +1,5 @@
 # Image Forgery Localization
 
-![Image](/graph.png)
 
 ## Problem Statement
 To Localize forgeries in digital images.
@@ -53,7 +52,7 @@ Part 2 : Manipulation Localization
 2) For each patch, label a patch as manipulated if the IOU(Intersection Over Union) between the mask and the image is >=12.5%.<br/>
 3) Feed the image patches and corresponding patches to the following network:
   
-  ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/patch_classification.png)
+  ![](/patch_classification.png)
 
   The input is of shape 32X32X3.<br/>
   The output has a shape of 2.<br/>
@@ -63,7 +62,7 @@ Part 2 : Manipulation Localization
 1) Divide the images and corresponding masks into 64 non-overlapping patches of size 32x32 <br/>
 2) Feed both the mask patches as well as the image patches to the following network:
 
-  ![](https://github.com/bitmask93/Image_Forgery_Localization/blob/master/mask_prediction.png)
+  ![](/mask_prediction.png)
 
   The input is image patches of size 32x32.<br/>
   The Output is mask patches of size 32x32 <br/>
