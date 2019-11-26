@@ -1,6 +1,6 @@
 # Image Forgery Localization
 
-![Image](graph.png)
+![Image](/graph.png)
 
 ## Problem Statement
 To Localize forgeries in digital images.
