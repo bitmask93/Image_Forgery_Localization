@@ -90,7 +90,7 @@ Part 2 : Manipulation Localization
    ![](/NIST3.png)
    ![](/NIST4.png)
     
-   For the NIST data Masks were not available because I have used their test set.
+   <br/>For the NIST data Masks were not available because I have used their test set.
 
 ### Output Scores :
 
