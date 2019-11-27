@@ -83,6 +83,7 @@ Part 2 : Manipulation Localization
     ![](/IEEE2.png)
     ![](/IEEE3.png)
     For The NIST Dataset :
+    </br>
     ![](/NIST1.png)
     ![](/NIST2.png)
     ![](/NIST3.png)
