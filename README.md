@@ -92,6 +92,12 @@ Part 2 : Manipulation Localization
     
    <br/>For the NIST data Masks were not available because I have used their test set.
 
+### Failure Cases :
+   ![](/fail1.png)
+   ![](/fail2.png)
+   ![](/fail3.png)
+
+
 ### Output Scores :
 
 For Part 1: Patch Classification 
