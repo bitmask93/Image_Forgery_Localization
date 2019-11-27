@@ -93,6 +93,8 @@ Part 2 : Manipulation Localization
    <br/>For the NIST data Masks were not available because I have used their test set.
 
 ### Failure Cases :
+<br/> Following are some of the failure cases of the model: 
+
    ![](/fail1.png)
    ![](/fail2.png)
    ![](/fail3.png)
