@@ -82,13 +82,15 @@ Part 2 : Manipulation Localization
     ![](/IEEE1.png)
     ![](/IEEE2.png)
     ![](/IEEE3.png)
-    For The NIST Dataset :
-    <br/>
-    ![](/NIST1.png)
-    ![](/NIST2.png)
-    ![](/NIST3.png)
-    ![](/NIST4.png)
-    For the NIST data Masks were not available because I have used their test set.
+    
+   For The NIST Dataset :
+    
+   ![](/NIST1.png)
+   ![](/NIST2.png)
+   ![](/NIST3.png)
+   ![](/NIST4.png)
+    
+   For the NIST data Masks were not available because I have used their test set.
 
 ### Output Scores :
 
